@@ -14,6 +14,15 @@ svg {
 	width:100%;
 	height:100%;
 }
+.datatip {
+        border: 1px solid black;
+        padding: 10px;
+        background-color: white;
+        opacity: 0.9;
+        border-radius: 4px;
+        box-shadow: 3px 4px 4px #ccc;
+}
+
 /* fixed header table */
 .fixedtable {
 	width: 100%;
@@ -146,11 +155,12 @@ function shownextquestion(){
 		$('#q'+window.questionindex).show()
 	}else{
 		hidequestions()
-		d3.json('counties.json', function(r){
-		window.geo.counties = r
+		d3.json('districts.json', function(r){
+		window.geo.districts = r
 		d3.tsv('data.tsv', function(r){
 		window.data = r
 		window.counties = summarizedata(window.data)
+		window.districts = window.data
 		initanalyzer()
 		})})
 	}
@@ -220,6 +230,9 @@ function summarizedata(data){
 function County(name){
 	return $.map(window.counties, function(d){if(d.county == name){return d}})[0]
 }
+function District(name){
+	return $.map(window.districts, function(d){if(d.district == name){return d}})[0]
+}
 
 
 function doupdate(){
@@ -235,17 +248,17 @@ window.budget
 function assignfunding(){
 	window.budget = getbudgetfromui()
 	//determine relative scores
-	for(var i in window.counties){
-		computescore(window.counties[i])
+	for(var i in window.districts){
+		computescore(window.districts[i])
 	}
-	var totalscore = d3.sum(window.counties, function(d){return d.score})
+	var totalscore = d3.sum(window.districts, function(d){return d.score})
 	// normalize to total budget
-	for(var i in window.counties){
-		var c = window.counties[i]
+	for(var i in window.districts){
+		var c = window.districts[i]
 		c.funding = c.score/totalscore * window.budget
 		c.funding_per_student = c.funding / c.wadm
 	}
-	console.log('assign funding', window.counties[0].funding, totalscore, window.budget, window.counties[0].funding_per_student)
+	console.log('assign funding', window.districts[0].funding, totalscore, window.budget, window.districts[0].funding_per_student)
 }
 
 function computescore(county){
@@ -256,6 +269,15 @@ function computescore(county){
 }
 
 window.map = {}
+var datatip = d3.select("body")
+	.append("div")
+	.attr("class", "datatip")
+	.style("position", "absolute")
+	.style("z-index", "10")
+	.style("visibility", "hidden")
+	.style("display", "none")
+	.text("a simple datatip");
+	
 function updatemap(){
 	window.map.svg = window.map.svg || d3.select('#map').append('svg')
 	var width = $('#map').width()
@@ -272,19 +294,34 @@ function updatemap(){
 		.translate([width / 2, height / 2]);
 
 	var colorScale = d3.scale.linear()
-		.domain([d3.min(window.counties, function(d){return d.funding_per_student}), d3.max(window.counties, function(d){return d.funding_per_student})])
+		.domain([d3.min(window.districts, function(d){return d.funding_per_student}), d3.max(window.districts, function(d){return d.funding_per_student})])
 		.range(['#000', '#fff'])
 		.interpolate(d3.interpolateHcl)
 
-	var counties = window.map.svg.selectAll('path.county')
-		.data(window.geo.counties.features)
-	counties.enter().append("path").classed('county', true)
+	var districts = window.map.svg.selectAll('path.county')
+		.data(window.geo.districts.features)
+	districts.enter().append("path").classed('county', true)
 		.attr("d", d3.geo.path().projection(projection))
-	counties
+ 		.on("mousemove", function(event){return datatip.style("top", (d3.mouse(d3.select("body")[0][0])[1]-10)+"px").style("left",(d3.mouse(d3.select("body")[0][0])[0]+10)+"px");})
+		.on("mouseover", function(){
+			var g = d3.select(this).data()[0]
+			var d = District(g.properties.SCHOOL_DIS)
+			datatip.html(formattooltip(d))
+			datatip.style("visibility", "visible").style('display', 'block')
+
+		})
+		.on("mouseout", function(){datatip.style('visibility', 'hidden').style('display', 'none')})
+	districts
 		.attr('title', function(d){return d.properties.name})
-		.style('fill', function(d){return colorScale(County(d.properties.name).funding_per_student)})
+		.style('fill', function(d){return colorScale(District(d.properties.SCHOOL_DIS).funding_per_student)})
 
 	//http://bost.ocks.org/mike/map/
+}
+
+function formattooltip(d){
+	console.log(d)
+	var str = $.map(window.selectedattributes, function(a){return '<b>'+a+':</b>'+d[a]}).join('<br />')
+	return str
 }
 
 window.table = {}
