@@ -1,0 +1,11 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population 16 years and over
+HC01_MOE_VC01,Total; Margin of Error; Population 16 years and over
+HC02_EST_VC01,In labor force; Estimate; Population 16 years and over
+HC02_MOE_VC01,In labor force; Margin of Error; Population 16 years and over
+HC03_EST_VC01,Employed; Estimate; Population 16 years and over
+HC03_MOE_VC01,Employed; Margin of Error; Population 16 years and over
+HC04_EST_VC01,Unemployment rate; Estimate; Population 16 years and over
+HC04_MOE_VC01,Unemployment rate; Margin of Error; Population 16 years and over

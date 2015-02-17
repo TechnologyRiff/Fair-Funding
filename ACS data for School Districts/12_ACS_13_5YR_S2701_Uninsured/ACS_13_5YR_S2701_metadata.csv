@@ -1,0 +1,13 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total civilian noninstitutionalized population
+HC01_MOE_VC01,Total; Margin of Error; Total civilian noninstitutionalized population
+HC02_EST_VC01,Number Uninsured; Estimate; Total civilian noninstitutionalized population
+HC02_MOE_VC01,Number Uninsured; Margin of Error; Total civilian noninstitutionalized population
+HC03_EST_VC01,Percent Uninsured; Estimate; Total civilian noninstitutionalized population
+HC03_MOE_VC01,Percent Uninsured; Margin of Error; Total civilian noninstitutionalized population
+HC04_EST_VC01,Number Insured by  Coverage Type; Estimate; Total civilian noninstitutionalized population
+HC04_MOE_VC01,Number Insured by  Coverage Type; Margin of Error; Total civilian noninstitutionalized population
+HC05_EST_VC01,Percent Insured by  Coverage Type; Estimate; Total civilian noninstitutionalized population
+HC05_MOE_VC01,Percent Insured by  Coverage Type; Margin of Error; Total civilian noninstitutionalized population
