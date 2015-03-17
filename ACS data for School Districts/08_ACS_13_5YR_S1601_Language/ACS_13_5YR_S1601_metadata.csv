@@ -1,0 +1,15 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC02,Total; Estimate; Speak only English
+HC01_MOE_VC02,Total; Margin of Error; Speak only English
+HC02_EST_VC02,"Percent of specified language speakers  - Speak English ""very well""; Estimate; Speak only English"
+HC02_MOE_VC02,"Percent of specified language speakers  - Speak English ""very well""; Margin of Error; Speak only English"
+HC03_EST_VC02,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; Speak only English"
+HC03_MOE_VC02,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; Speak only English"
+HC01_EST_VC03,Total; Estimate; Speak a language other than English
+HC01_MOE_VC03,Total; Margin of Error; Speak a language other than English
+HC02_EST_VC03,"Percent of specified language speakers  - Speak English ""very well""; Estimate; Speak a language other than English"
+HC02_MOE_VC03,"Percent of specified language speakers  - Speak English ""very well""; Margin of Error; Speak a language other than English"
+HC03_EST_VC03,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; Speak a language other than English"
+HC03_MOE_VC03,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; Speak a language other than English"

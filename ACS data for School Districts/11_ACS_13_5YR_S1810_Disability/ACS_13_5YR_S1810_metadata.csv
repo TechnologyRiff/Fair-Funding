@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total civilian noninstitutionalized population
+HC01_MOE_VC01,Total; Margin of Error; Total civilian noninstitutionalized population
+HC02_EST_VC01,With a disability; Estimate; Total civilian noninstitutionalized population
+HC02_MOE_VC01,With a disability; Margin of Error; Total civilian noninstitutionalized population
+HC03_EST_VC01,Percent with a disability; Estimate; Total civilian noninstitutionalized population
+HC03_MOE_VC01,Percent with a disability; Margin of Error; Total civilian noninstitutionalized population

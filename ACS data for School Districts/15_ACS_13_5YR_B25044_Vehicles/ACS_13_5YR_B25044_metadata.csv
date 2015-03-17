@@ -1,0 +1,13 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Owner occupied:
+HD02_VD02,Margin of Error; Owner occupied:
+HD01_VD03,Estimate; Owner occupied: - No vehicle available
+HD02_VD03,Margin of Error; Owner occupied: - No vehicle available
+HD01_VD09,Estimate; Renter occupied:
+HD02_VD09,Margin of Error; Renter occupied:
+HD01_VD10,Estimate; Renter occupied: - No vehicle available
+HD02_VD10,Margin of Error; Renter occupied: - No vehicle available

@@ -1,0 +1,503 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01,HD01_VD02,HD02_VD02,HD01_VD03,HD02_VD03
+Id,Id2,Geography,Estimate; Total:,Margin of Error; Total:,Estimate; Total: - Occupied,Margin of Error; Total: - Occupied,Estimate; Total: - Vacant,Margin of Error; Total: - Vacant
+9700000US4200824,4200824,"Central Valley School District, Pennsylvania",7906,213,7366,229,540,172
+9700000US4202010,4202010,"Abington Heights School District, Pennsylvania",9654,282,9099,279,555,182
+9700000US4202040,4202040,"Abington School District, Pennsylvania",23172,388,22049,361,1123,267
+9700000US4202100,4202100,"Albert Gallatin Area School District, Pennsylvania",10269,388,9083,365,1186,238
+9700000US4202130,4202130,"Aliquippa School District, Pennsylvania",5471,260,4189,186,1282,181
+9700000US4202190,4202190,"Allegheny Valley School District, Pennsylvania",5050,168,4544,144,506,132
+9700000US4202280,4202280,"Allentown City School District, Pennsylvania",46896,697,41823,793,5073,544
+9700000US4202310,4202310,"Allegheny-Clarion Valley School District, Pennsylvania",3193,107,2357,102,836,94
+9700000US4202340,4202340,"Altoona Area School District, Pennsylvania",26707,407,24211,451,2496,330
+9700000US4202400,4202400,"Wissahickon School District, Pennsylvania",15217,359,14558,315,659,200
+9700000US4202440,4202440,"Ambridge Area School District, Pennsylvania",11286,277,10264,289,1022,223
+9700000US4202480,4202480,"Antietam School District, Pennsylvania",3300,136,3059,122,241,101
+9700000US4202490,4202490,"Annville-Cleona School District, Pennsylvania",4551,181,4316,166,235,101
+9700000US4202550,4202550,"Apollo-Ridge School District, Pennsylvania",4395,155,3983,150,412,104
+9700000US4202590,4202590,"Armstrong School District, Pennsylvania",19976,247,17741,317,2235,269
+9700000US4202670,4202670,"Athens Area School District, Pennsylvania",6626,194,5602,182,1024,176
+9700000US4202700,4202700,"Austin Area School District, Pennsylvania",1866,59,476,38,1390,59
+9700000US4202760,4202760,"Avella Area School District, Pennsylvania",1787,62,1604,68,183,40
+9700000US4202790,4202790,"Avon Grove School District, Pennsylvania",10720,275,10362,259,358,126
+9700000US4202820,4202820,"Avonworth School District, Pennsylvania",4472,132,4137,130,335,113
+9700000US4202850,4202850,"Pine-Richland School District, Pennsylvania",8471,252,7977,236,494,179
+9700000US4202910,4202910,"Bald Eagle Area School District, Pennsylvania",6194,180,5297,188,897,122
+9700000US4202970,4202970,"Baldwin-Whitehall School District, Pennsylvania",16194,326,15432,294,762,225
+9700000US4203000,4203000,"Bangor Area School District, Pennsylvania",9785,313,8924,286,861,229
+9700000US4203120,4203120,"Beaver Area School District, Pennsylvania",6580,183,6236,181,344,118
+9700000US4203180,4203180,"Bedford Area School District, Pennsylvania",8079,217,6937,165,1142,188
+9700000US4203210,4203210,"Belle Vernon Area School District, Pennsylvania",8522,258,7607,241,915,204
+9700000US4203240,4203240,"Bellefonte Area School District, Pennsylvania",10540,313,9861,287,679,237
+9700000US4203300,4203300,"Bellwood-Antis School District, Pennsylvania",3567,214,3264,171,303,143
+9700000US4203330,4203330,"Bensalem Township School District, Pennsylvania",25996,625,23186,486,2810,399
+9700000US4203360,4203360,"Bentworth School District, Pennsylvania",3772,151,3430,124,342,90
+9700000US4203390,4203390,"Benton Area School District, Pennsylvania",2809,83,2042,90,767,84
+9700000US4203420,4203420,"Berlin Brothersvalley School District, Pennsylvania",2702,71,2176,81,526,63
+9700000US4203450,4203450,"Bermudian Springs School District, Pennsylvania",5307,192,4929,156,378,140
+9700000US4203480,4203480,"Berwick Area School District, Pennsylvania",10224,310,9364,287,860,206
+9700000US4203510,4203510,"Bethel Park School District, Pennsylvania",14111,283,13403,272,708,191
+9700000US4203570,4203570,"Bethlehem Area School District, Pennsylvania",48102,650,45173,618,2929,428
+9700000US4203600,4203600,"Bethlehem-Center School District, Pennsylvania",4084,185,3529,181,555,127
+9700000US4203630,4203630,"Big Beaver Falls Area School District, Pennsylvania",6419,286,5388,231,1031,174
+9700000US4203660,4203660,"Big Spring School District, Pennsylvania",8702,236,8173,238,529,124
+9700000US4203688,4203688,"Blackhawk School District, Pennsylvania",7846,211,7302,221,544,139
+9700000US4203690,4203690,"Blacklick Valley School District, Pennsylvania",2413,105,2217,99,196,67
+9700000US4203750,4203750,"Blairsville-Saltsburg School District, Pennsylvania",6460,222,5664,185,796,160
+9700000US4203840,4203840,"Bloomsburg Area School District, Pennsylvania",7689,330,6990,334,699,155
+9700000US4203870,4203870,"Blue Mountain School District, Pennsylvania",9019,225,8396,245,623,159
+9700000US4203900,4203900,"Blue Ridge School District, Pennsylvania",4188,107,3222,107,966,114
+9700000US4203960,4203960,"Boyertown Area School District, Pennsylvania",18250,415,17513,333,737,227
+9700000US4204020,4204020,"Bradford Area School District, Pennsylvania",9277,211,8094,230,1183,192
+9700000US4204050,4204050,"Brandywine Heights Area School District, Pennsylvania",5366,206,5158,200,208,110
+9700000US4204080,4204080,"Brownsville Area School District, Pennsylvania",6704,340,5579,293,1125,268
+9700000US4204090,4204090,"Bryn Athyn School District, Pennsylvania",495,26,454,38,41,36
+9700000US4204140,4204140,"Brentwood Borough School District, Pennsylvania",4852,231,4441,165,411,181
+9700000US4204200,4204200,"Bristol Borough School District, Pennsylvania",4245,249,3842,221,403,141
+9700000US4204230,4204230,"Bristol Township School District, Pennsylvania",21919,517,19705,485,2214,318
+9700000US4204260,4204260,"Brockway Area School District, Pennsylvania",3596,108,3043,112,553,81
+9700000US4204320,4204320,"Brookville Area School District, Pennsylvania",6825,158,4953,140,1872,118
+9700000US4204500,4204500,"Burgettstown Area School District, Pennsylvania",4535,185,4032,129,503,144
+9700000US4204530,4204530,"Burrell School District, Pennsylvania",6361,288,5935,228,426,172
+9700000US4204590,4204590,"Butler Area School District, Pennsylvania",24785,394,22937,359,1848,305
+9700000US4204710,4204710,"California Area School District, Pennsylvania",5144,307,4319,273,825,175
+9700000US4204740,4204740,"Cambria Heights School District, Pennsylvania",4399,96,3955,130,444,91
+9700000US4204830,4204830,"Cameron County School District, Pennsylvania",4420,43,2144,90,2276,77
+9700000US4204860,4204860,"Camp Hill School District, Pennsylvania",3581,133,3435,114,146,96
+9700000US4204890,4204890,"Canon-McMillan School District, Pennsylvania",15307,352,13930,253,1377,337
+9700000US4204920,4204920,"Canton Area School District, Pennsylvania",3110,115,2508,120,602,81
+9700000US4204980,4204980,"Carbondale Area School District, Pennsylvania",5408,256,4700,238,708,170
+9700000US4205010,4205010,"Carlisle Area School District, Pennsylvania",15586,442,14401,443,1185,279
+9700000US4205040,4205040,"Carlynton School District, Pennsylvania",7499,276,6798,188,701,198
+9700000US4205070,4205070,"Carmichaels Area School District, Pennsylvania",3348,201,3014,157,334,150
+9700000US4205160,4205160,"Catasauqua Area School District, Pennsylvania",4904,223,4537,202,367,184
+9700000US4205190,4205190,"Centennial School District, Pennsylvania",19159,393,18494,381,665,219
+9700000US4205310,4205310,"Central Bucks School District, Pennsylvania",42146,591,40288,566,1858,339
+9700000US4205340,4205340,"Central Cambria School District, Pennsylvania",5791,232,5340,206,451,165
+9700000US4205370,4205370,"Central Columbia School District, Pennsylvania",6441,183,6165,169,276,82
+9700000US4205400,4205400,"Central Dauphin School District, Pennsylvania",38846,563,36388,600,2458,415
+9700000US4205430,4205430,"Central Greene School District, Pennsylvania",5652,226,5054,244,598,157
+9700000US4205460,4205460,"Crestwood School District, Pennsylvania",8474,205,7589,192,885,147
+9700000US4205490,4205490,"Central York School District, Pennsylvania",13927,317,13366,293,561,198
+9700000US4205550,4205550,"Chambersburg Area School District, Pennsylvania",28746,405,26344,429,2402,345
+9700000US4205640,4205640,"Charleroi School District, Pennsylvania",5839,215,5093,189,746,180
+9700000US4205700,4205700,"Chartiers Valley School District, Pennsylvania",14859,406,13857,386,1002,240
+9700000US4205730,4205730,"Chartiers-Houston School District, Pennsylvania",4031,229,3647,159,384,173
+9700000US4205760,4205760,"Cheltenham Township School District, Pennsylvania",15469,418,14492,378,977,243
+9700000US4205860,4205860,"Chester-Upland School District, Pennsylvania",17549,468,14329,426,3220,306
+9700000US4205880,4205880,"Chestnut Ridge School District, Pennsylvania",5173,186,4387,194,786,116
+9700000US4205910,4205910,"Chichester School District, Pennsylvania",9828,338,9164,283,664,214
+9700000US4206030,4206030,"Clairton City School District, Pennsylvania",4057,231,3216,187,841,145
+9700000US4206060,4206060,"Clarion Area School District, Pennsylvania",3923,196,3213,198,710,148
+9700000US4206090,4206090,"Clarion-Limestone Area School District, Pennsylvania",4119,192,3260,179,859,149
+9700000US4206120,4206120,"Claysburg-Kimmel School District, Pennsylvania",2694,148,2256,133,438,93
+9700000US4206150,4206150,"Clearfield Area School District, Pennsylvania",9753,286,8191,263,1562,207
+9700000US4206240,4206240,"Coatesville Area School District, Pennsylvania",25225,534,23497,559,1728,284
+9700000US4206270,4206270,"Cocalico School District, Pennsylvania",8695,227,8309,230,386,139
+9700000US4206360,4206360,"Columbia Borough School District, Pennsylvania",4463,189,4079,136,384,134
+9700000US4206390,4206390,"Commodore Perry School District, Pennsylvania",1883,78,1661,71,222,59
+9700000US4206420,4206420,"Conemaugh Township Area School District, Pennsylvania",3990,184,3449,155,541,149
+9700000US4206430,4206430,"Conemaugh Valley School District, Pennsylvania",3099,95,2705,101,394,86
+9700000US4206480,4206480,"Conestoga Valley School District, Pennsylvania",12242,318,11877,312,365,170
+9700000US4206550,4206550,"Conewago Valley School District, Pennsylvania",10936,304,10376,317,560,172
+9700000US4206590,4206590,"Conneaut School District, Pennsylvania",11402,184,7302,207,4100,231
+9700000US4206660,4206660,"Connellsville Area School District, Pennsylvania",16428,386,14258,348,2170,303
+9700000US4206780,4206780,"Conrad Weiser Area School District, Pennsylvania",7512,223,7216,211,296,114
+9700000US4206810,4206810,"Cornell School District, Pennsylvania",3643,229,3229,210,414,126
+9700000US4206840,4206840,"Cornwall-Lebanon School District, Pennsylvania",14768,351,13533,316,1235,248
+9700000US4206860,4206860,"Corry Area School District, Pennsylvania",6306,214,5429,164,877,155
+9700000US4206930,4206930,"Coudersport Area School District, Pennsylvania",3598,125,2337,110,1261,111
+9700000US4206960,4206960,"Council Rock School District, Pennsylvania",27006,390,26012,365,994,237
+9700000US4207050,4207050,"Cranberry Area School District, Pennsylvania",5157,217,3979,166,1178,133
+9700000US4207080,4207080,"Crawford Central School District, Pennsylvania",14738,334,12833,326,1905,283
+9700000US4207110,4207110,"Cumberland Valley School District, Pennsylvania",23422,459,22764,404,658,204
+9700000US4207140,4207140,"Curwensville Area School District, Pennsylvania",3414,113,2998,112,416,91
+9700000US4207200,4207200,"Dallas School District, Pennsylvania",8583,290,7998,244,585,165
+9700000US4207230,4207230,"Dallastown Area School District, Pennsylvania",17775,389,16840,370,935,261
+9700000US4207290,4207290,"Daniel Boone Area School District, Pennsylvania",7787,226,7593,206,194,110
+9700000US4207320,4207320,"Danville Area School District, Pennsylvania",8422,137,7623,203,799,163
+9700000US4207530,4207530,"Delaware Valley School District, Pennsylvania",14740,418,10716,416,4024,392
+9700000US4207540,4207540,"Deer Lakes School District, Pennsylvania",6309,214,5831,178,478,190
+9700000US4207560,4207560,"Derry Area School District, Pennsylvania",8189,318,7326,238,863,196
+9700000US4207590,4207590,"Derry Township School District, Pennsylvania",10866,358,10026,333,840,247
+9700000US4207650,4207650,"Donegal School District, Pennsylvania",9003,319,8257,294,746,243
+9700000US4207680,4207680,"Dover Area School District, Pennsylvania",10532,342,10164,288,368,147
+9700000US4207710,4207710,"Downingtown Area School District, Pennsylvania",25700,384,24928,362,772,194
+9700000US4207830,4207830,"DuBois Area School District, Pennsylvania",15162,375,12744,336,2418,289
+9700000US4207980,4207980,"Dunmore School District, Pennsylvania",6257,270,5845,230,412,163
+9700000US4208010,4208010,"Duquesne City School District, Pennsylvania",3287,227,2437,190,850,119
+9700000US4208060,4208060,"East Allegheny School District, Pennsylvania",8212,295,7122,280,1090,258
+9700000US4208280,4208280,"Forest Area School District, Pennsylvania",9715,464,2227,458,7488,138
+9700000US4208460,4208460,"Eastern Lebanon County School District, Pennsylvania",8216,253,7859,250,357,131
+9700000US4208490,4208490,"East Lycoming School District, Pennsylvania",4412,133,3940,133,472,69
+9700000US4208550,4208550,"East Penn School District, Pennsylvania",22056,409,21242,418,814,258
+9700000US4208580,4208580,"East Pennsboro Area School District, Pennsylvania",8621,293,8262,262,359,161
+9700000US4208670,4208670,"East Stroudsburg Area School District, Pennsylvania",24389,687,16301,578,8088,464
+9700000US4208790,4208790,"Eastern York School District, Pennsylvania",8636,284,8143,279,493,163
+9700000US4208820,4208820,"Eastern Lancaster County School District, Pennsylvania",11147,251,10835,297,312,153
+9700000US4208850,4208850,"Easton Area School District, Pennsylvania",25593,479,23352,452,2241,363
+9700000US4209090,4209090,"Elizabeth Forward School District, Pennsylvania",8355,205,7638,187,717,179
+9700000US4209120,4209120,"Elizabethtown Area School District, Pennsylvania",11745,444,11206,408,539,195
+9700000US4209150,4209150,"Elk Lake School District, Pennsylvania",3926,104,2977,120,949,90
+9700000US4209240,4209240,"Ellwood City Area School District, Pennsylvania",6633,215,6020,217,613,149
+9700000US4209270,4209270,"Ephrata Area School District, Pennsylvania",13451,294,13149,301,302,141
+9700000US4209300,4209300,"Erie City School District, Pennsylvania",45264,671,40894,682,4370,519
+9700000US4209360,4209360,"Everett Area School District, Pennsylvania",5001,187,4047,173,954,111
+9700000US4209480,4209480,"Exeter Township School District, Pennsylvania",10725,236,10211,212,514,163
+9700000US4209540,4209540,"Fairfield Area School District, Pennsylvania",3312,133,2970,136,342,122
+9700000US4209570,4209570,"Fairview School District, Pennsylvania",3949,162,3705,122,244,117
+9700000US4209600,4209600,"Karns City Area School District, Pennsylvania",4692,129,4031,129,661,73
+9700000US4209660,4209660,"Fannett-Metal School District, Pennsylvania",2094,177,1617,142,477,85
+9700000US4209690,4209690,"Farrell Area School District, Pennsylvania",2922,231,2369,191,553,134
+9700000US4209750,4209750,"Ferndale Area School District, Pennsylvania",2524,109,2187,115,337,67
+9700000US4209780,4209780,"Fleetwood Area School District, Pennsylvania",6592,196,6382,181,210,120
+9700000US4209870,4209870,"Forbes Road School District, Pennsylvania",1366,71,1202,73,164,48
+9700000US4209930,4209930,"Forest City Regional School District, Pennsylvania",3469,143,2379,140,1090,130
+9700000US4209940,4209940,"Forest Hills School District, Pennsylvania",5578,271,5027,252,551,150
+9700000US4209960,4209960,"Fort Cherry School District, Pennsylvania",3744,159,3443,137,301,106
+9700000US4209990,4209990,"Fort LeBoeuf School District, Pennsylvania",5882,194,5599,202,283,112
+9700000US4210070,4210070,"Fox Chapel Area School District, Pennsylvania",12651,332,11631,284,1020,212
+9700000US4210110,4210110,"North Schuylkill School District, Pennsylvania",7638,259,6541,240,1097,160
+9700000US4210115,4210115,"North Star School District, Pennsylvania",4256,198,3618,181,638,153
+9700000US4210200,4210200,"Franklin Area School District, Pennsylvania",7886,195,6876,192,1010,141
+9700000US4210230,4210230,"Franklin Regional School District, Pennsylvania",10110,264,9460,247,650,192
+9700000US4210350,4210350,"Frazier School District, Pennsylvania",3745,172,3364,174,381,82
+9700000US4210380,4210380,"Freedom Area School District, Pennsylvania",5092,183,4723,167,369,131
+9700000US4210440,4210440,"Freeport Area School District, Pennsylvania",4969,166,4621,150,348,127
+9700000US4210530,4210530,"Galeton Area School District, Pennsylvania",3414,100,1268,77,2146,91
+9700000US4210590,4210590,"Garnet Valley School District, Pennsylvania",10849,305,10272,251,577,213
+9700000US4210620,4210620,"Gateway School District, Pennsylvania",15421,334,14128,305,1293,296
+9700000US4210650,4210650,"General McLane School District, Pennsylvania",7384,370,6722,363,662,223
+9700000US4210710,4210710,"Gettysburg Area School District, Pennsylvania",11124,308,10197,280,927,227
+9700000US4210740,4210740,"Girard School District, Pennsylvania",4723,274,4306,228,417,183
+9700000US4210830,4210830,"Glendale School District, Pennsylvania",2735,89,2205,111,530,84
+9700000US4210860,4210860,"Governor Mifflin School District, Pennsylvania",13415,303,12970,304,445,163
+9700000US4210870,4210870,"Great Valley School District, Pennsylvania",11376,309,10902,313,474,164
+9700000US4210920,4210920,"Greensburg Salem School District, Pennsylvania",13457,327,11929,274,1528,249
+9700000US4210950,4210950,"Greater Johnstown School District, Pennsylvania",15797,374,13089,354,2708,274
+9700000US4210980,4210980,"Greater Latrobe School District, Pennsylvania",13854,436,12514,345,1340,283
+9700000US4211010,4211010,"Greencastle-Antrim School District, Pennsylvania",7683,232,7393,224,290,122
+9700000US4211160,4211160,"Greenville Area School District, Pennsylvania",4704,214,4267,199,437,144
+9700000US4211190,4211190,"Greenwood School District, Pennsylvania",2391,71,2102,80,289,63
+9700000US4211220,4211220,"Grove City Area School District, Pennsylvania",6469,297,6047,293,422,166
+9700000US4211310,4211310,"Halifax Area School District, Pennsylvania",3373,152,3086,134,287,107
+9700000US4211340,4211340,"Hamburg Area School District, Pennsylvania",7442,213,6948,198,494,138
+9700000US4211400,4211400,"Hampton Township School District, Pennsylvania",7499,195,7004,213,495,176
+9700000US4211420,4211420,"Hanover Area School District, Pennsylvania",7420,210,6758,213,662,149
+9700000US4211450,4211450,"Hanover Public School District, Pennsylvania",7051,308,6571,241,480,156
+9700000US4211490,4211490,"Harbor Creek School District, Pennsylvania",6251,242,5935,228,316,128
+9700000US4211520,4211520,"Harmony Area School District, Pennsylvania",1128,58,878,63,250,44
+9700000US4211580,4211580,"Harrisburg City School District, Pennsylvania",25418,516,20726,503,4692,393
+9700000US4211610,4211610,"Hatboro-Horsham School District, Pennsylvania",13068,352,12408,277,660,223
+9700000US4211670,4211670,"Haverford Township School District, Pennsylvania",18271,292,17659,301,612,158
+9700000US4211700,4211700,"Hazleton Area School District, Pennsylvania",34379,552,29341,495,5038,423
+9700000US4211730,4211730,"Saucon Valley School District, Pennsylvania",7031,227,6500,208,531,191
+9700000US4211760,4211760,"Hempfield Area School District, Pennsylvania",22060,519,20418,490,1642,323
+9700000US4211790,4211790,"Hempfield School District, Pennsylvania",19255,375,18514,341,741,251
+9700000US4211820,4211820,"Hermitage School District, Pennsylvania",7908,281,7237,239,671,193
+9700000US4211880,4211880,"Highlands School District, Pennsylvania",9943,330,8764,247,1179,259
+9700000US4211940,4211940,"Hollidaysburg Area School District, Pennsylvania",12018,307,11301,292,717,231
+9700000US4212030,4212030,"Hopewell Area School District, Pennsylvania",7917,229,7485,203,432,136
+9700000US4212090,4212090,"Huntingdon Area School District, Pennsylvania",8670,209,6866,257,1804,164
+9700000US4212150,4212150,"Indiana Area School District, Pennsylvania",14193,373,12837,450,1356,280
+9700000US4212170,4212170,"Interboro School District, Pennsylvania",10181,341,9376,297,805,225
+9700000US4212210,4212210,"Iroquois School District, Pennsylvania",3038,131,2684,136,354,119
+9700000US4212300,4212300,"Jamestown Area School District, Pennsylvania",2979,102,1794,103,1185,86
+9700000US4212330,4212330,"Jeannette City School District, Pennsylvania",5083,246,4448,203,635,178
+9700000US4212390,4212390,"Jefferson-Morgan School District, Pennsylvania",2788,120,2529,115,259,88
+9700000US4212420,4212420,"Jenkintown School District, Pennsylvania",1998,146,1936,128,62,81
+9700000US4212480,4212480,"Jersey Shore Area School District, Pennsylvania",8736,221,7068,228,1668,127
+9700000US4212540,4212540,"Jim Thorpe Area School District, Pennsylvania",11297,271,5914,294,5383,321
+9700000US4212570,4212570,"Johnsonburg Area School District, Pennsylvania",2730,103,2061,122,669,87
+9700000US4212600,4212600,"Juniata County School District, Pennsylvania",10721,75,9027,207,1694,188
+9700000US4212630,4212630,"Juniata Valley School District, Pennsylvania",2552,92,2155,98,397,60
+9700000US4212660,4212660,"Kane Area School District, Pennsylvania",4395,166,3239,147,1156,125
+9700000US4212690,4212690,"Kennett Consolidated School District, Pennsylvania",10216,359,9786,330,430,203
+9700000US4212720,4212720,"Keystone School District, Pennsylvania",3440,88,3050,101,390,77
+9700000US4212725,4212725,"Keystone Central School District, Pennsylvania",18385,237,14064,269,4321,232
+9700000US4212750,4212750,"Keystone Oaks School District, Pennsylvania",10266,267,9632,252,634,199
+9700000US4212840,4212840,"Kiski Area School District, Pennsylvania",13001,290,11943,256,1058,211
+9700000US4212930,4212930,"Kutztown Area School District, Pennsylvania",6455,314,5898,291,557,144
+9700000US4212990,4212990,"Lackawanna Trail School District, Pennsylvania",3844,124,3274,128,570,89
+9700000US4213020,4213020,"Lake-Lehman School District, Pennsylvania",7039,222,5848,182,1191,134
+9700000US4213050,4213050,"Lakeland School District, Pennsylvania",5718,184,5148,180,570,146
+9700000US4213080,4213080,"Lakeview School District, Pennsylvania",3803,95,3351,104,452,64
+9700000US4213110,4213110,"Lampeter-Strasburg School District, Pennsylvania",8987,308,8671,290,316,186
+9700000US4213140,4213140,"Lancaster School District, Pennsylvania",30799,620,28559,645,2240,348
+9700000US4213290,4213290,"Homer-Center School District, Pennsylvania",2773,143,2588,143,185,100
+9700000US4213320,4213320,"Laurel Highlands School District, Pennsylvania",10411,305,9544,275,867,241
+9700000US4213380,4213380,"Laurel School District, Pennsylvania",3410,128,3095,123,315,98
+9700000US4213440,4213440,"Lebanon School District, Pennsylvania",11405,328,10311,361,1094,237
+9700000US4213470,4213470,"Leechburg Area School District, Pennsylvania",2867,107,2639,116,228,85
+9700000US4213500,4213500,"Lehighton Area School District, Pennsylvania",7697,243,7018,253,679,194
+9700000US4213590,4213590,"Lewisburg Area School District, Pennsylvania",6723,364,6171,317,552,214
+9700000US4213710,4213710,"Ligonier Valley School District, Pennsylvania",8204,242,6864,215,1340,162
+9700000US4213770,4213770,"Penn Cambria School District, Pennsylvania",5857,234,5234,228,623,105
+9700000US4213980,4213980,"Littlestown Area School District, Pennsylvania",5915,230,5663,209,252,107
+9700000US4214100,4214100,"Lower Dauphin School District, Pennsylvania",10005,290,9422,275,583,197
+9700000US4214160,4214160,"Lower Merion School District, Pennsylvania",25798,420,23957,368,1841,286
+9700000US4214190,4214190,"Lower Moreland Township School District, Pennsylvania",4673,168,4524,154,149,75
+9700000US4214250,4214250,"Methacton School District, Pennsylvania",12899,327,12251,336,648,193
+9700000US4214310,4214310,"Loyalsock Township School District, Pennsylvania",5402,241,5125,213,277,130
+9700000US4214430,4214430,"Mahanoy Area School District, Pennsylvania",4214,220,3319,200,895,175
+9700000US4214460,4214460,"Line Mountain School District, Pennsylvania",4211,115,3634,135,577,96
+9700000US4214550,4214550,"Manheim Central School District, Pennsylvania",9731,291,9415,250,316,161
+9700000US4214580,4214580,"Manheim Township School District, Pennsylvania",15900,361,15243,324,657,223
+9700000US4214730,4214730,"Marion Center Area School District, Pennsylvania",4318,154,3841,138,477,82
+9700000US4214760,4214760,"Marple Newtown School District, Pennsylvania",13726,321,12925,308,801,200
+9700000US4214790,4214790,"Mars Area School District, Pennsylvania",7940,275,7464,266,476,201
+9700000US4214850,4214850,"Central Fulton School District, Pennsylvania",3138,70,2618,89,520,81
+9700000US4214880,4214880,"McGuffey School District, Pennsylvania",5317,125,4910,142,407,97
+9700000US4214940,4214940,"McKeesport Area School District, Pennsylvania",16059,380,13871,396,2188,245
+9700000US4215030,4215030,"Mechanicsburg Area School District, Pennsylvania",12019,370,11585,351,434,163
+9700000US4215120,4215120,"Mercer Area School District, Pennsylvania",4105,133,3747,143,358,79
+9700000US4215150,4215150,"Meyersdale Area School District, Pennsylvania",3273,72,2722,99,551,98
+9700000US4215170,4215170,"Mid Valley School District, Pennsylvania",7347,244,6621,222,726,218
+9700000US4215210,4215210,"Midd-West School District, Pennsylvania",7173,191,6404,195,769,104
+9700000US4215240,4215240,"Middletown Area School District, Pennsylvania",8103,275,7336,286,767,220
+9700000US4215270,4215270,"Midland Borough School District, Pennsylvania",1368,141,1130,110,238,118
+9700000US4215290,4215290,"Mifflin County School District, Pennsylvania",19939,195,17446,360,2493,328
+9700000US4215330,4215330,"Millcreek Township School District, Pennsylvania",23739,417,22326,395,1413,308
+9700000US4215360,4215360,"Millersburg Area School District, Pennsylvania",3190,215,2930,184,260,124
+9700000US4215450,4215450,"Millville Area School District, Pennsylvania",2443,77,2258,74,185,55
+9700000US4215480,4215480,"Milton Area School District, Pennsylvania",7761,286,7150,238,611,185
+9700000US4215510,4215510,"Minersville Area School District, Pennsylvania",4440,167,3829,148,611,156
+9700000US4215540,4215540,"Mohawk Area School District, Pennsylvania",4682,153,4275,149,407,110
+9700000US4215600,4215600,"Monessen City School District, Pennsylvania",4345,222,3603,201,742,167
+9700000US4215660,4215660,"Montgomery Area School District, Pennsylvania",2555,119,2305,135,250,65
+9700000US4215720,4215720,"Montour School District, Pennsylvania",11942,268,11166,226,776,215
+9700000US4215750,4215750,"Montoursville Area School District, Pennsylvania",6170,219,5562,218,608,137
+9700000US4215810,4215810,"Montrose Area School District, Pennsylvania",6156,140,4813,164,1343,116
+9700000US4215830,4215830,"Moon Area School District, Pennsylvania",11526,392,10913,371,613,222
+9700000US4215900,4215900,"Morrisville Borough School District, Pennsylvania",3940,286,3586,262,354,144
+9700000US4215960,4215960,"Moshannon Valley School District, Pennsylvania",3335,146,2696,159,639,78
+9700000US4215990,4215990,"Mount Carmel Area School District, Pennsylvania",7098,242,5750,237,1348,220
+9700000US4216020,4216020,"Mount Union Area School District, Pennsylvania",5165,203,4063,195,1102,115
+9700000US4216050,4216050,"Mountain View School District, Pennsylvania",4536,127,3492,145,1044,116
+9700000US4216110,4216110,"Mt. Lebanon School District, Pennsylvania",14520,327,13920,323,600,188
+9700000US4216170,4216170,"Mount Pleasant Area School District, Pennsylvania",8632,256,7628,231,1004,193
+9700000US4216200,4216200,"Muhlenberg School District, Pennsylvania",9900,241,9382,221,518,182
+9700000US4216230,4216230,"Muncy School District, Pennsylvania",3180,170,2983,168,197,101
+9700000US4216290,4216290,"Greater Nanticoke Area School District, Pennsylvania",9155,318,7814,292,1341,213
+9700000US4216380,4216380,"Nazareth Area School District, Pennsylvania",10403,227,9948,217,455,212
+9700000US4216410,4216410,"Neshaminy School District, Pennsylvania",26973,466,25311,441,1662,343
+9700000US4216440,4216440,"Neshannock Township School District, Pennsylvania",4614,179,4326,190,288,140
+9700000US4216500,4216500,"Woodland Hills School District, Pennsylvania",26387,592,22048,536,4339,428
+9700000US4216530,4216530,"New Brighton Area School District, Pennsylvania",5202,230,4676,204,526,139
+9700000US4216620,4216620,"New Castle Area School District, Pennsylvania",11859,316,10106,310,1753,238
+9700000US4216740,4216740,"New Kensington-Arnold School District, Pennsylvania",9820,319,8270,257,1550,212
+9700000US4216860,4216860,"New Hope-Solebury School District, Pennsylvania",5354,206,4673,149,681,173
+9700000US4216890,4216890,"Newport School District, Pennsylvania",3433,87,3119,111,314,78
+9700000US4216980,4216980,"Norristown Area School District, Pennsylvania",28838,568,25802,520,3036,379
+9700000US4217010,4217010,"North Allegheny School District, Pennsylvania",20528,366,19158,392,1370,312
+9700000US4217100,4217100,"Moniteau School District, Pennsylvania",4007,142,3681,128,326,87
+9700000US4217130,4217130,"North Clarion County School District, Pennsylvania",3404,79,1945,96,1459,103
+9700000US4217160,4217160,"North East School District, Pennsylvania",4259,160,4068,153,191,100
+9700000US4217220,4217220,"North Hills School District, Pennsylvania",18200,320,17012,334,1188,244
+9700000US4217280,4217280,"North Penn School District, Pennsylvania",40299,556,38724,496,1575,340
+9700000US4217310,4217310,"North Pocono School District, Pennsylvania",10739,275,7812,261,2927,220
+9700000US4217370,4217370,"Northampton Area School District, Pennsylvania",17186,391,16191,341,995,236
+9700000US4217430,4217430,"Riverside Beaver County School District, Pennsylvania",4458,235,4198,203,260,149
+9700000US4217460,4217460,"Northeast Bradford School District, Pennsylvania",2751,92,2115,92,636,75
+9700000US4217520,4217520,"Northeastern York School District, Pennsylvania",9386,298,8689,307,697,217
+9700000US4217580,4217580,"Northern Bedford County School District, Pennsylvania",2764,84,2476,86,288,63
+9700000US4217610,4217610,"Northern Cambria School District, Pennsylvania",3549,125,3193,115,356,107
+9700000US4217640,4217640,"Northern Lebanon School District, Pennsylvania",6845,199,6492,187,353,113
+9700000US4217670,4217670,"Northern Lehigh School District, Pennsylvania",5368,165,5127,137,241,116
+9700000US4217700,4217700,"Northern Potter School District, Pennsylvania",2529,73,1764,85,765,64
+9700000US4217730,4217730,"Northern Tioga School District, Pennsylvania",7106,197,6006,199,1100,110
+9700000US4217760,4217760,"Northern York County School District, Pennsylvania",8848,259,8373,236,475,164
+9700000US4217770,4217770,"Northgate School District, Pennsylvania",7515,247,6553,209,962,185
+9700000US4217790,4217790,"Northwest Area School District, Pennsylvania",4093,74,3447,100,646,106
+9700000US4217850,4217850,"Northwestern Lehigh School District, Pennsylvania",6065,180,5704,164,361,144
+9700000US4217880,4217880,"Northwestern School District, Pennsylvania",4255,181,3875,158,380,96
+9700000US4217940,4217940,"Norwin School District, Pennsylvania",15418,313,14385,280,1033,248
+9700000US4218030,4218030,"Octorara Area School District, Pennsylvania",6444,226,6075,211,369,101
+9700000US4218090,4218090,"Oil City Area School District, Pennsylvania",7055,243,6051,173,1004,196
+9700000US4218120,4218120,"Old Forge School District, Pennsylvania",3833,219,3695,206,138,92
+9700000US4218150,4218150,"Oley Valley School District, Pennsylvania",5347,215,5129,207,218,136
+9700000US4218210,4218210,"Oswayo Valley School District, Pennsylvania",1803,78,1277,84,526,65
+9700000US4218240,4218240,"Otto-Eldred School District, Pennsylvania",1922,89,1720,94,202,53
+9700000US4218270,4218270,"Owen J. Roberts School District, Pennsylvania",12765,299,12221,273,544,181
+9700000US4218300,4218300,"Oxford Area School District, Pennsylvania",8026,300,7775,272,251,117
+9700000US4218330,4218330,"Palisades School District, Pennsylvania",6630,229,5816,205,814,169
+9700000US4218360,4218360,"Palmerton Area School District, Pennsylvania",6442,272,5887,266,555,213
+9700000US4218390,4218390,"Palmyra Area School District, Pennsylvania",9840,260,9512,228,328,178
+9700000US4218450,4218450,"Panther Valley School District, Pennsylvania",6370,197,5301,219,1069,202
+9700000US4218510,4218510,"Parkland School District, Pennsylvania",22222,404,21171,377,1051,259
+9700000US4218570,4218570,"Pen Argyl Area School District, Pennsylvania",5174,182,4898,165,276,135
+9700000US4218580,4218580,"Penn-Delco School District, Pennsylvania",10629,279,10211,244,418,160
+9700000US4218590,4218590,"Penn Hills School District, Pennsylvania",20145,484,18347,379,1798,327
+9700000US4218630,4218630,"Penn Manor School District, Pennsylvania",16503,399,15657,340,846,206
+9700000US4218660,4218660,"Penn-Trafford School District, Pennsylvania",10543,362,10044,311,499,158
+9700000US4218740,4218740,"Penncrest School District, Pennsylvania",10429,215,8987,218,1442,163
+9700000US4218750,4218750,"Pennridge School District, Pennsylvania",19046,368,18136,336,910,217
+9700000US4218780,4218780,"Penns Manor Area School District, Pennsylvania",2679,116,2347,97,332,81
+9700000US4218810,4218810,"Penns Valley Area School District, Pennsylvania",5920,195,4857,183,1063,145
+9700000US4218840,4218840,"Pennsbury School District, Pennsylvania",27841,423,26407,375,1434,289
+9700000US4218900,4218900,"Pequea Valley School District, Pennsylvania",6461,268,6194,229,267,129
+9700000US4218930,4218930,"Perkiomen Valley School District, Pennsylvania",12588,346,12089,331,499,194
+9700000US4218960,4218960,"Peters Township School District, Pennsylvania",7527,258,7456,241,71,74
+9700000US4218990,4218990,"Philadelphia City School District, Pennsylvania",668806,926,580017,2572,88789,2617
+9700000US4219020,4219020,"Philipsburg-Osceola Area School District, Pennsylvania",7420,282,6409,237,1011,197
+9700000US4219050,4219050,"Phoenixville Area School District, Pennsylvania",14011,417,13314,367,697,212
+9700000US4219140,4219140,"Pine Grove Area School District, Pennsylvania",5136,141,4592,170,544,124
+9700000US4219170,4219170,"Pittsburgh School District, Pennsylvania",157819,1382,134348,1253,23471,1020
+9700000US4219200,4219200,"Pittston Area School District, Pennsylvania",13196,364,11908,323,1288,260
+9700000US4219290,4219290,"Pleasant Valley School District, Pennsylvania",13239,524,11770,458,1469,338
+9700000US4219350,4219350,"Plum Borough School District, Pennsylvania",11398,250,10768,235,630,193
+9700000US4219470,4219470,"Colonial School District, Pennsylvania",17976,404,17056,347,920,225
+9700000US4219500,4219500,"Pocono Mountain School District, Pennsylvania",36157,784,22334,636,13823,723
+9700000US4219530,4219530,"Port Allegany School District, Pennsylvania",2978,119,2446,126,532,84
+9700000US4219560,4219560,"Portage Area School District, Pennsylvania",2831,157,2658,128,173,98
+9700000US4219650,4219650,"Pottsgrove School District, Pennsylvania",8153,226,7787,211,366,116
+9700000US4219680,4219680,"Pottstown School District, Pennsylvania",10728,380,9734,338,994,245
+9700000US4219710,4219710,"Pottsville Area School District, Pennsylvania",9923,338,8526,297,1397,279
+9700000US4219800,4219800,"Punxsutawney Area School District, Pennsylvania",9482,158,8198,203,1284,191
+9700000US4219830,4219830,"Purchase Line School District, Pennsylvania",3377,155,2813,138,564,94
+9700000US4219860,4219860,"Quaker Valley School District, Pennsylvania",6503,169,5959,155,544,125
+9700000US4219890,4219890,"Quakertown Community School District, Pennsylvania",14056,291,13497,250,559,199
+9700000US4219920,4219920,"Radnor Township School District, Pennsylvania",10616,361,9759,365,857,241
+9700000US4220040,4220040,"Reading School District, Pennsylvania",35726,696,31005,662,4721,538
+9700000US4220100,4220100,"Red Lion Area School District, Pennsylvania",15561,357,14612,340,949,220
+9700000US4220130,4220130,"Redbank Valley School District, Pennsylvania",4012,117,3411,118,601,100
+9700000US4220220,4220220,"Reynolds School District, Pennsylvania",4400,245,4152,233,248,127
+9700000US4220250,4220250,"Richland School District, Pennsylvania",6106,218,5796,224,310,135
+9700000US4220310,4220310,"Ridgway Area School District, Pennsylvania",3855,155,2864,135,991,136
+9700000US4220370,4220370,"Ridley School District, Pennsylvania",17106,365,16020,323,1086,248
+9700000US4220400,4220400,"Ringgold School District, Pennsylvania",12627,336,11035,257,1592,273
+9700000US4220430,4220430,"Riverview School District, Pennsylvania",4504,162,4128,148,376,145
+9700000US4220460,4220460,"Rochester Area School District, Pennsylvania",3476,218,3078,187,398,119
+9700000US4220520,4220520,"Rockwood Area School District, Pennsylvania",3917,78,2301,86,1616,100
+9700000US4220550,4220550,"Rose Tree Media School District, Pennsylvania",14894,317,13883,282,1011,238
+9700000US4220580,4220580,"South Fayette Township School District, Pennsylvania",6012,256,5603,241,409,162
+9700000US4220640,4220640,"St. Marys Area School District, Pennsylvania",9837,164,8024,201,1813,192
+9700000US4220730,4220730,"Salisbury Township School District, Pennsylvania",5337,204,5164,177,173,89
+9700000US4220760,4220760,"Salisbury-Elk Lick School District, Pennsylvania",1273,38,1058,56,215,52
+9700000US4220850,4220850,"Sayre Area School District, Pennsylvania",3979,208,3452,193,527,145
+9700000US4220910,4220910,"Schuylkill Haven Area School District, Pennsylvania",3764,178,3344,154,420,146
+9700000US4220970,4220970,"Schuylkill Valley School District, Pennsylvania",5186,281,4829,247,357,132
+9700000US4221090,4221090,"Scranton School District, Pennsylvania",33620,540,29249,483,4371,489
+9700000US4221120,4221120,"Selinsgrove Area School District, Pennsylvania",8879,200,7993,224,886,226
+9700000US4221150,4221150,"Yough School District, Pennsylvania",7330,242,6717,226,613,155
+9700000US4221180,4221180,"Shade-Central City School District, Pennsylvania",1901,92,1546,85,355,60
+9700000US4221200,4221200,"Shaler Area School District, Pennsylvania",17763,350,16461,340,1302,250
+9700000US4221240,4221240,"Shamokin Area School District, Pennsylvania",10016,286,8051,297,1965,245
+9700000US4221270,4221270,"Shanksville-Stonycreek School District, Pennsylvania",1743,44,1143,68,600,59
+9700000US4221330,4221330,"Sharon City School District, Pennsylvania",7283,297,6009,254,1274,210
+9700000US4221420,4221420,"Sharpsville Area School District, Pennsylvania",3420,166,3084,125,336,125
+9700000US4221490,4221490,"Shenandoah Valley School District, Pennsylvania",4519,240,3275,171,1244,205
+9700000US4221510,4221510,"Shenango Area School District, Pennsylvania",3237,183,3093,181,144,97
+9700000US4221540,4221540,"Shikellamy School District, Pennsylvania",10527,242,9700,233,827,217
+9700000US4221570,4221570,"Shippensburg Area School District, Pennsylvania",11118,380,10206,338,912,228
+9700000US4221660,4221660,"Slippery Rock Area School District, Pennsylvania",8507,316,7709,293,798,190
+9700000US4221690,4221690,"Smethport Area School District, Pennsylvania",3458,130,2389,128,1069,100
+9700000US4221810,4221810,"Solanco School District, Pennsylvania",11430,337,10885,336,545,175
+9700000US4221840,4221840,"Somerset Area School District, Pennsylvania",9156,239,7219,255,1937,218
+9700000US4221870,4221870,"Souderton Area School District, Pennsylvania",17289,361,16729,295,560,199
+9700000US4221910,4221910,"South Allegheny School District, Pennsylvania",5816,218,5078,175,738,152
+9700000US4221930,4221930,"South Butler County School District, Pennsylvania",7857,219,7430,216,427,135
+9700000US4222050,4222050,"South Middleton School District, Pennsylvania",6061,253,5821,230,240,136
+9700000US4222060,4222060,"South Park School District, Pennsylvania",5871,208,5410,182,461,168
+9700000US4222140,4222140,"South Williamsport Area School District, Pennsylvania",4250,172,3978,164,272,127
+9700000US4222170,4222170,"South Eastern School District, Pennsylvania",7916,312,7161,280,755,196
+9700000US4222200,4222200,"Southeastern Greene School District, Pennsylvania",2137,74,1854,97,283,72
+9700000US4222230,4222230,"South Side Area School District, Pennsylvania",2760,88,2580,78,180,84
+9700000US4222260,4222260,"Southern Columbia Area School District, Pennsylvania",5165,166,4439,168,726,129
+9700000US4222290,4222290,"Southern Fulton School District, Pennsylvania",2603,61,2145,77,458,84
+9700000US4222320,4222320,"Southern Huntingdon County School District, Pennsylvania",4325,102,3061,133,1264,115
+9700000US4222350,4222350,"Southern Lehigh School District, Pennsylvania",7551,285,7177,271,374,151
+9700000US4222370,4222370,"Southern Tioga School District, Pennsylvania",7658,320,5972,341,1686,137
+9700000US4222380,4222380,"Southern York County School District, Pennsylvania",8261,249,7985,214,276,137
+9700000US4222400,4222400,"Southeast Delco School District, Pennsylvania",12200,354,11109,302,1091,244
+9700000US4222410,4222410,"Southmoreland School District, Pennsylvania",6902,242,6374,226,528,151
+9700000US4222440,4222440,"Seneca Valley School District, Pennsylvania",19311,298,18326,325,985,245
+9700000US4222470,4222470,"South Western School District, Pennsylvania",10512,296,9924,287,588,208
+9700000US4222530,4222530,"Spring Cove School District, Pennsylvania",6234,208,5876,197,358,115
+9700000US4222560,4222560,"Spring-Ford Area School District, Pennsylvania",18840,303,17986,295,854,229
+9700000US4222590,4222590,"Spring Grove Area School District, Pennsylvania",10759,255,10179,254,580,168
+9700000US4222600,4222600,"Springfield School District, Pennsylvania",10064,202,9720,192,344,101
+9700000US4222620,4222620,"Springfield Township School District, Pennsylvania",7586,186,7355,170,231,114
+9700000US4222710,4222710,"Saint Clair Area School District, Pennsylvania",3349,151,3016,135,333,105
+9700000US4222740,4222740,"Tuscarora School District, Pennsylvania",7633,287,6834,252,799,216
+9700000US4222770,4222770,"State College Area School District, Pennsylvania",35634,514,32865,564,2769,406
+9700000US4222790,4222790,"Steel Valley School District, Pennsylvania",8855,316,7494,255,1361,240
+9700000US4222800,4222800,"Steelton-Highspire School District, Pennsylvania",3504,223,3154,182,350,164
+9700000US4222830,4222830,"Sto-Rox School District, Pennsylvania",6695,310,5614,238,1081,185
+9700000US4222860,4222860,"Stroudsburg Area School District, Pennsylvania",14366,513,12442,419,1924,382
+9700000US4222920,4222920,"Sullivan County School District, Pennsylvania",6296,64,2402,124,3894,117
+9700000US4222980,4222980,"Susquehanna Community School District, Pennsylvania",3021,82,2101,115,920,90
+9700000US4223010,4223010,"Susquehanna Township School District, Pennsylvania",11455,328,10629,281,826,243
+9700000US4223040,4223040,"Susquenita School District, Pennsylvania",6587,191,6182,196,405,94
+9700000US4223220,4223220,"Tamaqua Area School District, Pennsylvania",7881,244,6972,220,909,255
+9700000US4223250,4223250,"Riverside School District, Pennsylvania",5355,239,4970,240,385,171
+9700000US4223490,4223490,"Titusville Area School District, Pennsylvania",6420,190,5505,173,915,126
+9700000US4223550,4223550,"Towanda Area School District, Pennsylvania",5224,138,4279,152,945,131
+9700000US4223640,4223640,"Tredyffrin-Easttown School District, Pennsylvania",16403,334,15841,282,562,172
+9700000US4223700,4223700,"Tri-Valley School District, Pennsylvania",3037,154,2663,114,374,98
+9700000US4223760,4223760,"Trinity Area School District, Pennsylvania",11960,348,11087,279,873,225
+9700000US4223790,4223790,"Troy Area School District, Pennsylvania",4944,106,3929,136,1015,103
+9700000US4223820,4223820,"Tulpehocken Area School District, Pennsylvania",4403,194,4193,195,210,78
+9700000US4223850,4223850,"Tunkhannock Area School District, Pennsylvania",8981,128,7493,173,1488,145
+9700000US4223880,4223880,"Turkeyfoot Valley Area School District, Pennsylvania",1995,59,1165,66,830,71
+9700000US4223970,4223970,"Tussey Mountain School District, Pennsylvania",4129,132,2973,134,1156,116
+9700000US4224000,4224000,"Twin Valley School District, Pennsylvania",9078,295,8615,255,463,178
+9700000US4224030,4224030,"Tyrone Area School District, Pennsylvania",5669,184,5066,179,603,134
+9700000US4224060,4224060,"Union Area School District, Pennsylvania",2539,132,2332,124,207,104
+9700000US4224090,4224090,"Union City Area School District, Pennsylvania",3560,155,2561,135,999,139
+9700000US4224120,4224120,"Union School District, Pennsylvania",1947,94,1683,85,264,54
+9700000US4224150,4224150,"Uniontown Area School District, Pennsylvania",11503,413,9284,372,2219,269
+9700000US4224210,4224210,"Unionville-Chadds Ford School District, Pennsylvania",8753,257,8382,220,371,118
+9700000US4224240,4224240,"United School District, Pennsylvania",3377,100,3161,99,216,75
+9700000US4224300,4224300,"Upper Adams School District, Pennsylvania",4333,183,4006,170,327,115
+9700000US4224320,4224320,"Upper Darby School District, Pennsylvania",36686,627,33150,573,3536,363
+9700000US4224360,4224360,"Upper Dauphin Area School District, Pennsylvania",4076,122,3581,126,495,93
+9700000US4224390,4224390,"Upper Dublin School District, Pennsylvania",9819,226,9312,251,507,145
+9700000US4224480,4224480,"Upper Merion Area School District, Pennsylvania",15838,368,14820,354,1018,219
+9700000US4224510,4224510,"Upper Moreland Township School District, Pennsylvania",10580,295,9755,270,825,209
+9700000US4224540,4224540,"Upper Perkiomen School District, Pennsylvania",8897,241,8344,234,553,167
+9700000US4224570,4224570,"Upper Saint Clair School District, Pennsylvania",7239,193,6985,164,254,114
+9700000US4224630,4224630,"Valley Grove School District, Pennsylvania",3014,177,2733,162,281,114
+9700000US4224650,4224650,"Valley View School District, Pennsylvania",8235,329,7501,293,734,229
+9700000US4224750,4224750,"Wallenpaupack Area School District, Pennsylvania",22191,417,10250,282,11941,431
+9700000US4224790,4224790,"Wallingford-Swarthmore School District, Pennsylvania",8134,232,7735,235,399,168
+9700000US4224820,4224820,"Warren County School District, Pennsylvania",21741,134,16120,244,5621,240
+9700000US4224870,4224870,"Warrior Run School District, Pennsylvania",5589,370,5209,370,380,118
+9700000US4224960,4224960,"Warwick School District, Pennsylvania",12382,360,11865,311,517,176
+9700000US4224970,4224970,"Wayne Highlands School District, Pennsylvania",12261,268,8716,270,3545,239
+9700000US4224990,4224990,"Washington School District, Pennsylvania",7460,239,6611,223,849,170
+9700000US4225080,4225080,"Wattsburg Area School District, Pennsylvania",4233,136,3935,122,298,96
+9700000US4225110,4225110,"Waynesboro Area School District, Pennsylvania",13767,357,12700,310,1067,271
+9700000US4225140,4225140,"Weatherly Area School District, Pennsylvania",2616,170,1946,133,670,121
+9700000US4225170,4225170,"Wellsboro Area School District, Pennsylvania",6122,815,5044,779,1078,156
+9700000US4225200,4225200,"West Allegheny School District, Pennsylvania",9164,277,8494,275,670,223
+9700000US4225230,4225230,"West Branch Area School District, Pennsylvania",3617,193,2914,158,703,103
+9700000US4225290,4225290,"West Chester Area School District, Pennsylvania",42386,702,40838,603,1548,363
+9700000US4225440,4225440,"West Greene School District, Pennsylvania",2502,79,1966,84,536,68
+9700000US4225590,4225590,"West Jefferson Hills School District, Pennsylvania",8545,206,8104,219,441,146
+9700000US4225650,4225650,"West Middlesex Area School District, Pennsylvania",3072,197,2788,188,284,108
+9700000US4225680,4225680,"West Mifflin Area School District, Pennsylvania",10055,405,9055,333,1000,218
+9700000US4225740,4225740,"West Perry School District, Pennsylvania",8204,153,7043,158,1161,112
+9700000US4225830,4225830,"West Shore School District, Pennsylvania",26931,521,25318,439,1613,384
+9700000US4225950,4225950,"Wyoming Valley West School District, Pennsylvania",20755,490,18762,458,1993,361
+9700000US4225980,4225980,"West York Area School District, Pennsylvania",10327,249,9932,238,395,159
+9700000US4226010,4226010,"Mifflinburg Area School District, Pennsylvania",7562,238,6407,211,1155,140
+9700000US4226040,4226040,"Western Beaver County School District, Pennsylvania",2346,103,2158,92,188,93
+9700000US4226070,4226070,"Western Wayne School District, Pennsylvania",10162,298,5856,298,4306,295
+9700000US4226130,4226130,"Westmont Hilltop School District, Pennsylvania",5868,204,5486,203,382,152
+9700000US4226250,4226250,"Whitehall-Coplay School District, Pennsylvania",13119,361,12658,332,461,156
+9700000US4226300,4226300,"Wilkes-Barre Area School District, Pennsylvania",28046,599,24106,514,3940,399
+9700000US4226370,4226370,"Wilkinsburg Borough School District, Pennsylvania",10065,427,7968,326,2097,238
+9700000US4226390,4226390,"William Penn School District, Pennsylvania",17876,450,15682,361,2194,336
+9700000US4226400,4226400,"Williams Valley School District, Pennsylvania",3405,84,2873,118,532,97
+9700000US4226430,4226430,"Williamsburg Community School District, Pennsylvania",1602,67,1437,65,165,38
+9700000US4226460,4226460,"Williamsport Area School District, Pennsylvania",18384,396,16137,392,2247,361
+9700000US4226520,4226520,"Wilmington Area School District, Pennsylvania",4469,152,4130,148,339,88
+9700000US4226550,4226550,"Wilson Area School District, Pennsylvania",6705,246,6241,213,464,175
+9700000US4226580,4226580,"Wilson School District, Pennsylvania",15712,383,15225,404,487,198
+9700000US4226610,4226610,"Windber Area School District, Pennsylvania",4185,166,3756,158,429,112
+9700000US4226700,4226700,"Wyalusing Area School District, Pennsylvania",4944,114,3456,140,1488,120
+9700000US4226730,4226730,"Wyoming Area School District, Pennsylvania",9376,328,8528,307,848,223
+9700000US4226760,4226760,"Wyomissing Area School District, Pennsylvania",5422,219,5009,203,413,168
+9700000US4226820,4226820,"York City School District, Pennsylvania",18927,562,16161,455,2766,342
+9700000US4226850,4226850,"York Suburban School District, Pennsylvania",8643,232,8231,217,412,139
+9700000US4299997,4299997,"School District Not Defined, Pennsylvania",0,10,0,10,0,10

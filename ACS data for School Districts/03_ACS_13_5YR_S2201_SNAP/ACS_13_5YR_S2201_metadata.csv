@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Households
+HC01_MOE_VC01,Total; Margin of Error; Households
+HC02_EST_VC01,Households receiving food stamps; Estimate; Households
+HC02_MOE_VC01,Households receiving food stamps; Margin of Error; Households
+HC03_EST_VC01,Households not receiving food stamps; Estimate; Households
+HC03_MOE_VC01,Households not receiving food stamps; Margin of Error; Households

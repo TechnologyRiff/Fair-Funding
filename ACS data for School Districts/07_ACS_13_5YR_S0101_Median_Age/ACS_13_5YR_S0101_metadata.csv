@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC35,Total; Estimate; SUMMARY INDICATORS - Median age (years)
+HC01_MOE_VC35,Total; Margin of Error; SUMMARY INDICATORS - Median age (years)
+HC02_EST_VC35,Male; Estimate; SUMMARY INDICATORS - Median age (years)
+HC02_MOE_VC35,Male; Margin of Error; SUMMARY INDICATORS - Median age (years)
+HC03_EST_VC35,Female; Estimate; SUMMARY INDICATORS - Median age (years)
+HC03_MOE_VC35,Female; Margin of Error; SUMMARY INDICATORS - Median age (years)
